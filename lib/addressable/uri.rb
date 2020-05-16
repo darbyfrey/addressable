@@ -72,7 +72,9 @@ module Addressable
       "gopher" => 70,
       "wais" => 210,
       "ldap" => 389,
-      "prospero" => 1525
+      "prospero" => 1525,
+      "wss" => 443,
+      "ws" => 80
     }
 
     ##
